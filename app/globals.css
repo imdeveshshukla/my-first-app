@@ -2,11 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
-
-
 body{
   background-color: aliceblue;
 }
-#Hellow{
-  margin: 100px;
+#myBtn1{
+  background-color: black;
 }
