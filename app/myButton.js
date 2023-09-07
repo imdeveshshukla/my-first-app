@@ -1,10 +1,9 @@
-function myButton() {
+import firstPage from './page'
+function MyButton() {
     return(
         <>
-        <h1>This is Btn</h1>
-        <button id="myBtn1" className="font-bold">Press Here</button>
-        
+        <button id="myBtn1" className="font-bold m-10">Press Here</button>
         </>
     );
 }
-export default myButton;
+export default MyButton;
